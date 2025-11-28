@@ -1,0 +1,14 @@
+Performance Summary Report
+============================
+
+Top 3 Performers:
+name
+Arjun    90.0
+Aarav    83.5
+Avani    75.5
+Name: marks, dtype: float64
+
+Lowest Avg Subject:
+Maths
+
+Class Average Marks: 64.60
