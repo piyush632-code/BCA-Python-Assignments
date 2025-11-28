@@ -1,0 +1,7 @@
+Name: Piyush Sharma
+Roll No: 1009
+Course: BCA AI & DS
+University: k.r mangalam
+City: gurugram
+Age: 19
+Hobby: playing games
