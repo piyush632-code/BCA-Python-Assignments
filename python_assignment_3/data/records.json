@@ -1,0 +1,10 @@
+{
+    "patients": [],
+    "doctors": [
+        {
+            "doctor_id": "c873e9f8",
+            "name": "Ram",
+            "specialization": "MD"
+        }
+    ]
+}
